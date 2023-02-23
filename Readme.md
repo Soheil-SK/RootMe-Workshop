@@ -62,6 +62,6 @@ Les notion des challenge a réussir portent sur le "reverse engineering" les ét
 
 # Encore faim ?
 
-Si vous avez terminer toutes les steps Yacine et Soheil vous félicitent ! vous êtes l'élite ! continuez à progresser sur RootMe vous avez pleins de chose à craquer encore.
+Si vous avez terminé toutes les steps Yacine et Soheil vous félicitent ! vous êtes l'élite ! continuez à progresser sur RootMe vous avez pleins de chose à craquer encore.
 
 On vous conseille d'explorer <a href="https://www.root-me.org/fr/Challenges/App-Script/">App - Script</a> qui vous permettra à l'avenir d'écrire du code plus sûre en apprenant à exploiter les failles de développement dans des langages de script ou de programmation
