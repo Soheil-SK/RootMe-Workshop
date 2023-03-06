@@ -1,7 +1,6 @@
-# Root me exercices
+# Root me exercices hf
 
-## Step 1 crée un compte/ connecter sur 
-<a herf="https://www.root-me.org">RootMe</a>
+## Step 1 crée un compte/ connecter sur <a herf="https://www.root-me.org">RootMe</a>
 
 ## Step 2 cracker le fichier du challenge <a href="https://www.root-me.org/fr/Challenges/Cracking/ELF-x86-0-protection">ELF x86 - 0 protection</a>
 - documentation:
